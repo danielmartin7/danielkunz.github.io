@@ -20,7 +20,6 @@ tags = [
 ![image alt text](/3img9.jpg)
 ![image alt text](/3img10.jpg)
 ![image alt text](/3img11.jpg)
-![image alt text](/3img12.jpg)
 
 
 
