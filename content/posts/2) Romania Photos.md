@@ -17,10 +17,6 @@ tags = [
 ![image alt text](/2img6.jpg)
 ![image alt text](/2img7.jpg)
 ![image alt text](/2img8.jpg)
-![image alt text](/2img9.jpg)
-![image alt text](/2img10.jpg)
-![image alt text](/2img11.jpg)
-![image alt text](/2img12.jpg)
 
 
 
