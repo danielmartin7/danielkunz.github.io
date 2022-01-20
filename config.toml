@@ -8,6 +8,9 @@ pygmentsUseClasses = true
 
 ignoreErrors = ["error-missing-instagram-accesstoken"]
 
+canonifyURLs = true
+relativeURLs = true
+
 [params]
   description = "Your site description"
   copyright = "Copyright © 2022 Daniel Kunz"
