@@ -1,7 +1,7 @@
 +++
 author = "Hugo Authors"
 weight = -2023
-title = "Columbo Cola (in post)"
+title = "Juicy (in post)"
 date = ""
 description = "Lorem Ipsum Dolor Si Amet"
 tags = [
@@ -11,7 +11,7 @@ tags = [
 +++
 ___
 
-![image alt text](/columbocola1.png)
+![image alt text](/juicy.jpg)
 
 Kurz-Spielfilm - in Postproduktion
 ___
